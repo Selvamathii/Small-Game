@@ -52,7 +52,7 @@ Join this project to learn about GUI development and time handling in Python!
 
 ## Output
 
-<img src="C:\Users\srima\Pictures\Screenshots\op 1.png" alt="MY Local Image" width="300" height="200">
+<img src="op 1.png" alt="MY Local Image" width="300" height="200">
 
 
 
