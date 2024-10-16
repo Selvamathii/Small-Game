@@ -50,9 +50,5 @@ Join this project to learn about GUI development and time handling in Python!
 - **Inspiration**: To all the open-source projects that encouraged me to build this digital clock.<br>
 
 
-## Output
-
-<img src="op 1.png" alt="MY Local Image" width="300" height="200">
-
 
 
