@@ -5,7 +5,7 @@
 <line>
 python is a dynamically-typed garbage-collected programming language developed by Guido van Rossum in the late 80s to replace ABC. Much like the programming language Ruby, Python was designed to be easily read by programmers. Because of its large following and many libraries, Python can be implemented and used to do anything from webpages to scientific research.
 
-#### Guess Number
+### Guess Number
 
 ##### Number Guessing Challenge
 
@@ -30,7 +30,26 @@ Players must guess a randomly selected number within a specified range.<br>The p
 - Feedback for each guess to guide the player<br>
 - A loop for multiple rounds of play<br><br>
 
-This project serves as an excellent exercise for understanding loops, conditionals, and user input in Python.
+This project serves as an excellent exercise for understanding loops, conditionals, and user input in Python.<br><br>
+
+### Digital clock
+
+##### * Features
+
+This Digital Clock project showcases the capabilities of Python and Tkinter to create a visually appealing and functional clock application.<br> Key features include:<br>
+- Real-time clock display with hours, minutes, and seconds<br>
+- Customizable font and color settings<br>
+- Option to switch  24-hour formats<br><br>
+
+Join this project to learn about GUI development and time handling in Python!
+
+## Acknowledgments
+
+- **Tkinter Documentation**: For providing comprehensive guides on creating GUIs in Python.<br>
+- **Python Community**: For the wealth of resources and support available for learning and development.<br>
+- **Inspiration**: To all the open-source projects that encouraged me to build this digital clock.<br>
+
+
 
 
 
