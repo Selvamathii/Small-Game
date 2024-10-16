@@ -32,7 +32,7 @@ Players must guess a randomly selected number within a specified range.<br>The p
 
 This project serves as an excellent exercise for understanding loops, conditionals, and user input in Python.<br><br>
 
-### Digital clock
+## Digital clock
 
 ##### * Features
 
