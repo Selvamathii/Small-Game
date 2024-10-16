@@ -7,7 +7,7 @@ python is a dynamically-typed garbage-collected programming language developed b
 
 ## Guess Number
 
-##### Number Guessing Challenge
+##### * Number Guessing Challenge
 
 Are you ready to test your guessing skills?<br>Dive into this Number Guessing Challenge, a Python game where you'll attempt to outsmart the computer by guessing a mystery number. With each guess, you’ll receive helpful hints that keep you on your toes!<br> 
 This project is great for beginners and anyone looking to refine their coding abilities in a fun way.
