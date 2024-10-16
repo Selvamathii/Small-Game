@@ -1,5 +1,5 @@
-### HI BUDDY !!!! 
-<h3 align="center">Welcome to my GitHub !!!! 🎀 Let's play a game.... </h3>
+
+<h2 align="center">Welcome to my GitHub !!!! 🎀<br> Let's play a game.... </h2>
 
 ## About Python
 <line>
